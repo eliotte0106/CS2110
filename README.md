@@ -1,1 +1,1 @@
-# GATech CS 2110: 2022 Summer
+# GATech CS 2110 - Computer Organization and Programming
