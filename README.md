@@ -1,1 +1,1 @@
-# CS2110
+# GATech CS 2110: 2022 Summer
