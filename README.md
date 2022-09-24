@@ -1,1 +1,1 @@
-# GATech CS 2110 - Computer Organization and Programming
+# GATech Computer Organization and Programming
